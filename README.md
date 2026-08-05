@@ -5,44 +5,49 @@
 ![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
 
+---
+
 ## 📌 Overview
 
 This project is a fully interactive **Sales Dashboard** developed in **Microsoft Excel** using **VBA Macros, Pivot Tables, Pivot Charts, Checkboxes, and Slicers**.
 
-The dashboard allows users to dynamically display one or multiple dashboard sections using checkboxes. Users can analyze sales data city-wise with a clean and interactive interface.
+The dashboard allows users to dynamically display one or multiple dashboard sections using checkboxes. Users can analyze sales data city-wise with an intuitive and interactive interface.
 
 ---
 
+# 📥 Download Project
 
-```
-https://github.com/YourUsername/Excel-Sales-Dashboard/assets/......
-```
+📄 **Excel Dashboard (.xlsm)**
+
+👉 **Download Here**
+
+https://github.com/Himanshu-Bagoria/Excel-Sales-Dashboard/blob/main/Excel-Sales-Dashboard.xlsm
 
 ---
 
-# 🖼 Project Screenshots
+# 🖼️ Project Screenshots
 
-## Dashboard - Mumbai
+## 📍 Mumbai Dashboard
 
 ![Mumbai Dashboard](https://github.com/Himanshu-Bagoria/Excel-Sales-Dashboard/blob/main/Dashboard%20Mumbai.png)
 
 ---
 
-## Dashboard - Delhi
+## 📍 Delhi Dashboard
 
-![Delhi Dashboard](images/delhi.png)
-
----
-
-## Dashboard - Chennai
-
-![Chennai Dashboard](images/chennai.png)
+![Delhi Dashboard](https://github.com/Himanshu-Bagoria/Excel-Sales-Dashboard/blob/main/Dashboard%20Delhi.png)
 
 ---
 
-## Dashboard - Surat
+## 📍 Chennai Dashboard
 
-![Surat Dashboard](images/surat.png)
+![Chennai Dashboard](https://github.com/Himanshu-Bagoria/Excel-Sales-Dashboard/blob/main/Dashboard%20Chennai.png)
+
+---
+
+## 📍 Surat Dashboard
+
+![Surat Dashboard](https://github.com/Himanshu-Bagoria/Excel-Sales-Dashboard/blob/main/Dashboard%20Surat.png)
 
 ---
 
@@ -50,21 +55,17 @@ https://github.com/YourUsername/Excel-Sales-Dashboard/assets/......
 
 ### ✅ Interactive Dashboard
 
-- Select a single dashboard using checkbox
-- Select multiple dashboards simultaneously
-- Compare different dashboards together
-- Easy to switch between reports
-
----
+- Display a single dashboard using a checkbox.
+- View multiple dashboards simultaneously.
+- Compare different dashboards together.
+- Easy navigation between reports.
 
 ### ✅ VBA Automation
 
-- Macro Recorder used
-- Customized VBA Code
-- Automatic dashboard visibility
-- Dynamic report switching
-
----
+- Macro Recorder used.
+- Customized VBA code.
+- Dynamic dashboard visibility.
+- Automated report switching.
 
 ### ✅ Sales Analysis
 
@@ -73,19 +74,12 @@ https://github.com/YourUsername/Excel-Sales-Dashboard/assets/......
 - Away From Target %
 - Executive-wise Performance
 
----
-
 ### ✅ Interactive Charts
 
-✔ Bar Chart
-
-✔ Pie Chart
-
-✔ Line Chart
-
-✔ Pivot Charts
-
----
+- 📊 Bar Chart
+- 🥧 Pie Chart
+- 📈 Line Chart
+- 📉 Pivot Charts
 
 ### ✅ Dynamic Filtering
 
@@ -95,7 +89,7 @@ https://github.com/YourUsername/Excel-Sales-Dashboard/assets/......
 
 ---
 
-# 🛠 Technologies Used
+# 🛠️ Technologies Used
 
 - Microsoft Excel
 - VBA (Visual Basic for Applications)
@@ -103,127 +97,97 @@ https://github.com/YourUsername/Excel-Sales-Dashboard/assets/......
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- Data Visualization
 - Dashboard Design
+- Data Visualization
 
 ---
 
 # 📂 Project Structure
 
-```
+```text
 Excel-Sales-Dashboard
 │
-├── Dashboard.xlsm
+├── Excel-Sales-Dashboard.xlsm
 ├── README.md
 │
 ├── images
-│   ├── mumbai.png
-│   ├── delhi.png
-│   ├── chennai.png
-│   └── surat.png
+│   ├── Dashboard Chennai.png
+│   ├── Dashboard Delhi.png
+│   ├── Dashboard Mumbai.png
+│   └── Dashboard Surat.png
 │
-└── Demo.mp4
+└── LICENSE
 ```
 
 ---
 
-# 🚀 How it Works
+# 🚀 How to Use
 
 ### Step 1
 
-Open the Excel Macro Enabled Workbook (.xlsm)
+Download the **Excel-Sales-Dashboard.xlsm** file.
 
 ### Step 2
 
-Enable Macros
+Open it in Microsoft Excel.
 
 ### Step 3
 
-Choose City
-
-Examples
-
-✔ Chennai
-
-✔ Delhi
-
-✔ Mumbai
-
-✔ Surat
-
-etc.
+Enable Macros.
 
 ### Step 4
 
-Select Dashboard
+Select your desired city.
 
-You can choose
+### Step 5
 
-✅ Dashboard 1
+Choose one or more dashboard checkboxes.
 
-✅ Dashboard 2
-
-✅ Dashboard 3
-
-✅ Dashboard 4
-
-or any combination.
+The dashboard updates automatically using VBA Macros.
 
 ---
 
-# 📈 Dashboard Includes
+# 📊 Dashboard Includes
 
-- Executive Sales Report
+- Executive-wise Sales Report
 - Total Sales
-- Target Achievement %
+- Target Hit %
 - Away From Target %
 - Performance Comparison
-- Sales Visualization
+- Interactive Charts
+- Dynamic Filters
 
 ---
 
 # 💡 Learning Outcomes
 
-During this project I learned
+Through this project, I gained hands-on experience in:
 
 - Excel Dashboard Development
 - VBA Programming
 - Macro Automation
 - Pivot Tables
 - Pivot Charts
-- Slicer Integration
-- Dynamic Dashboard Design
+- Slicers
+- Interactive Reporting
 - Data Visualization
 
 ---
 
 # 🔮 Future Improvements
 
-- Login System
-- Monthly Reports
+- Monthly Sales Reports
 - PDF Export
 - Email Automation
 - Refresh Button
 - Power Query Integration
-- Power BI Version
+- Power BI Dashboard Version
 
 ---
 
-# 📥 Download
+# ⭐ Support
 
-Download Excel Project
-
-👉 Add Google Drive Link Here
-
-```
-https://drive.google.com/.....
-```
-
----
-
-# ⭐ If you like this project
-
-Give this repository a ⭐
+If you found this project helpful, please consider giving it a ⭐ on GitHub.
 
 ---
 
@@ -231,18 +195,16 @@ Give this repository a ⭐
 
 ## Himanshu Bagoria
 
-Python Developer | Excel Automation | AI/ML Enthusiast
+**Python Developer | Excel Automation | AI/ML Enthusiast**
 
-### LinkedIn
+### 🔗 LinkedIn
 
 https://linkedin.com/in/himanshu-bagoria0826
 
-### GitHub
+### 💻 GitHub
 
 https://github.com/Himanshu-Bagoria
 
-### Portfolio
+### 🌐 Portfolio
 
 https://portfolio-himanshu-rh0b.onrender.com
-
---- 
