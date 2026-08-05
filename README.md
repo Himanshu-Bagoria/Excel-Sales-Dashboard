@@ -24,7 +24,7 @@ https://github.com/YourUsername/Excel-Sales-Dashboard/assets/......
 
 ## Dashboard - Mumbai
 
-![Mumbai Dashboard](images/mumbai.png)
+![Mumbai Dashboard](https://github.com/Himanshu-Bagoria/Excel-Sales-Dashboard/blob/main/Dashboard%20Mumbai.png)
 
 ---
 
